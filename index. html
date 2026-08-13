@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>StyleNest - Fashion</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+
+<h1>StyleNest 👗</h1>
+
+<p>Simple Fashion Ideas</p>
+
+<hr>
+
+<h2>✨ Fashion Ideas</h2>
+
+<h3>👕 Outfit Ideas</h3>
+<p>Discover simple and stylish outfit ideas.</p>
+
+<h3>🎨 Colour Combinations</h3>
+<p>Learn useful colour combinations for your outfits.</p>
+
+<h3>👟 Shoes & Accessories</h3>
+<p>Find ideas for matching shoes and accessories.</p>
+
+<hr>
+
+<h2>About StyleNest</h2>
+
+<p>
+StyleNest shares simple and useful fashion ideas.
+</p>
+
+</body>
+</html>
